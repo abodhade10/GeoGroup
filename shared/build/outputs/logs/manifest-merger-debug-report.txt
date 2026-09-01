@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/akhilbodhade/AndroidStudioProjects/GeoGroup/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11183674073191035110.xml:2:13-83
+INJECTED from /Users/akhilbodhade/AndroidStudioProjects/GeoGroup/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11183674073191035110.xml:2:13-83
+	package
+		INJECTED from /Users/akhilbodhade/AndroidStudioProjects/GeoGroup/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11183674073191035110.xml
+	xmlns:android
+		ADDED from /Users/akhilbodhade/AndroidStudioProjects/GeoGroup/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11183674073191035110.xml:2:23-81
+uses-sdk
+INJECTED from /Users/akhilbodhade/AndroidStudioProjects/GeoGroup/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11183674073191035110.xml reason: use-sdk injection requested
+INJECTED from /Users/akhilbodhade/AndroidStudioProjects/GeoGroup/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11183674073191035110.xml
+INJECTED from /Users/akhilbodhade/AndroidStudioProjects/GeoGroup/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11183674073191035110.xml
+	android:targetSdkVersion
+		INJECTED from /Users/akhilbodhade/AndroidStudioProjects/GeoGroup/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11183674073191035110.xml
+	android:minSdkVersion
+		INJECTED from /Users/akhilbodhade/AndroidStudioProjects/GeoGroup/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11183674073191035110.xml

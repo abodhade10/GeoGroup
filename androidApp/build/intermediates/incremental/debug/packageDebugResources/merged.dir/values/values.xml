@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">582354091243</string>
+    <string name="google_api_key" translatable="false">AIzaSyCuhoqgFF6bx2SmuSJtdRXJVjlBHrHwmzA</string>
+    <string name="google_app_id" translatable="false">1:582354091243:android:0c67f84aa2d5e3711112ae</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCuhoqgFF6bx2SmuSJtdRXJVjlBHrHwmzA</string>
+    <string name="google_storage_bucket" translatable="false">geogroup-bb5c7.firebasestorage.app</string>
+    <string name="project_id" translatable="false">geogroup-bb5c7</string>
+    <style name="Theme.GeoGroup" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

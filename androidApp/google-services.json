@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582354091243",
+    "project_id": "geogroup-bb5c7",
+    "storage_bucket": "geogroup-bb5c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582354091243:android:0c67f84aa2d5e3711112ae",
+        "android_client_info": {
+          "package_name": "com.geogroup.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhoqgFF6bx2SmuSJtdRXJVjlBHrHwmzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
